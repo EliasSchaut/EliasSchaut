@@ -1,3 +1,6 @@
+
+<img src="/img/avatar.png" alt="Avatar" width="100" height="100" style="margin: auto; border-radius: 100px">
+
 ### Hi there 👋
 
 <!--

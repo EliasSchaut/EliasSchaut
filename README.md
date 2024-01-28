@@ -1,7 +1,13 @@
 
-<div align="center">
+<div id='header' align="center">
   <img src="/img/avatar.png" alt="Avatar" width="100" height="100">
+  <p><p>
+  <a href="https://schaut.dev">
+    <img src="https://img.shields.io/badge/I'm-Elias_Lorenz_Schaut-%23818cf8?style=for-the-badge" alt="Website">
+  </a>
 </div>
+
+---
 
 ### Hi there 👋
 

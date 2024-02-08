@@ -21,6 +21,14 @@ Hey, I'm a passionate Web/Bot Developer 👾 from Germany and ...
 - 💬 full of creative ideas
 - 😄 like to make people happy
 - ⚡ full of energy
-- 📫 always contactable: <a href="mailto:elias@schaut.dev" target="_blank">elias@schaut.dev</a>
+- 📫 always contactable: [elias@schaut.dev](mailto:elias@schaut.dev)
 
-📖 Learn more about me with my website: <a href="https://schaut.dev" target="_blank">https://schaut.dev</a>
+📖 Learn more about me with my website: [schaut.dev](https://schaut.dev)
+
+---
+
+### 🔥 My Stats:
+<img src="https://streak-stats.demolab.com?user=EliasSchaut&theme=tokyonight-duo&hide_border=true&mode=weekly" alt="GitHub Streak" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasSchaut&layout=compact&theme=tokyonight&hide=html,css,CMake&hide_border=true" alt="GitHub Langs">
+

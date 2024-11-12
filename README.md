@@ -16,7 +16,7 @@ Hey, I'm a passionate Web/Bot Developer 👾 from Germany and ...
 
 - 🔭 love to learn new things
 - 🌱 build apps to improve the lives of communities
-- 👯 love to code open source
+- 🔓 love to code open source
 - 🤔 open to collaborate
 - 💬 full of creative ideas
 - 😄 like to make people happy

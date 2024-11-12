@@ -68,7 +68,16 @@ Hey, I'm a passionate Web/Bot Developer 👾 from Germany and ...
 ---
 
 ### 🔥 My Stats:
-<img src="https://streak-stats.demolab.com?user=EliasSchaut&theme=tokyonight-duo&hide_border=true&mode=weekly" alt="GitHub Streak" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasSchaut&layout=compact&theme=tokyonight&hide=html,css,CMake&hide_border=true" alt="GitHub Langs">
+<div id='stats' align="center">
+  <img src="https://streak-stats.demolab.com?user=EliasSchaut&theme=tokyonight-duo&hide_border=true&mode=weekly" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasSchaut&layout=compact&theme=tokyonight&hide=html,css,CMake&hide_border=true" alt="GitHub Langs">
+</div>
+
+---
+
+<div align="center">
+  <a href="https://ko-fi.com/kid_ilias" target="_blank">
+    <img  src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi" />
+  </a>
+</div>
 
